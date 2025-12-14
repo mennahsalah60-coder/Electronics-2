@@ -20,7 +20,7 @@ This is a frontend web page (static site) named **PhoneShop** — part of a prac
 
 ## Live Demo  
 LiveDemo:  
-[PhoneShop Live Demo](https://mennahsalah60-coder.github.io/electronics/)  
+[PhoneShop Live Demo](https://mennahsalah60-coder.github.io/Electronics-2/)  
 --- 
 "# electronics" 
 "# Electronics-2" 
